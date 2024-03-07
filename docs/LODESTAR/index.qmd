@@ -1,5 +1,9 @@
 ---
-title: "Trea-to-Target or High-Intensity Statin in Patients"
+title: "Treat-to-Target or High-Intensity Statin in Patients"
+title-slide-attributes: 
+  data-background-image: "LODESTAR_BackgroundIMG.jpg"
+  data-background-size: contain
+  data-background-opacity: "0.3"
 subtitle: "with Coronary Artery Disease"
 author: "Jaewoong Heo"
 format: 
@@ -15,53 +19,175 @@ editor: visual
 
 ## Terms
 
--   Statin: 스타틴; 이상지질혈증 및 고지혈증에 공범위하게 사용되는 약물
+-   Statin: 스타틴; 이상지질혈증 및 고지혈증에 광범위하게 사용되는 약물
 
--   Ezetimibe: 에제티미브; 고지혈증 환자의 콜레스테롤 감소를 위한 보조제로 활용
+-   rosuvastatin: 로수바스타틴: 아스트라제네카에서 상품명 크레스토로 제공되는 스타틴 계열 약물
 
--   Aherosclerotic cardiovascular disease (ASCVD): 죽상경화성심혈관질환; 이상지질혈증으로 인해 발생 위험을 증가시킴
+-   atorvastatin: 아토바스타틴: 화이자에서 상품명 리피토라로 제공되는 스타틴 계열 약물
+
+-   myocardial infarction: 관상동맥 혈관 조영술; 혈관에 관을 삽입하여 촬영하는 검사
+
+-   coronary artery disease(CAD): 관상동맥질환
 
 ## Before Research
 
--   
+-   초기 고강도 스타틴으로 최소 50% LDL-C 수치 감소를 권장
+
+-   이 과정중 스타틴 강도를 조절할 필요성이 줄어 편할 수 있지만 부작용 우려
+
+-   대안으로 중강도 스타틴으로 목표치(50\~70mg/dL)까지 도달하고자 함
+
+-   근거 부족으로 저자는 해당 임상연구를 하게 됨
 
 # Methods
 
 ## Study Design
 
--   
+-   연구자 주도, 다기관, 무작위 배정, 오픈 라벨, 비열등성 시험
+
+-   12 centers in South Korea
 
 ## Participants
 
--   
+-   CAD 환자
+
+    -   안정형 허혈성 심장 질환
+
+    -   급성 관상동맥 증후군(불안정 협심증, 급성 심근경색)
 
 ## Randomisation
 
--   
+-   1:1 방식 무작위 배정 (저강도 or 고강도)
+
+    -   Web-response permuted-block randomization(mixed blocks of 4 or 6)
+
+    -   LDL-C 100mg/dL 이상, 급성 관상동맥 증후군 및 당뇨병 유무에 따라 계층
+
+-   2차 1:1 방식 무작위 배정 (로수바스타틴 or 아토르바스타틴)
 
 ## Procedures
 
--   
+::: panel-tabset
+## Content
+
+-   6주 및 3, 6, 12, 24, 36 개월 측정
+
+-   추적 관찰 중 약물 용량이나 종류가 변경될 시 두 그룹 모두 4\~6주 이내에 검사를 받도록 조치
+
++---------------------------------------------------+-----------------------------------+
+| Moderate-intensity statin (Treat-to-target)       | High-intensity statin             |
++===================================================+===================================+
+| -   목표 수치 LDL-C 70mg/dL                       | -   목표 수치 LDL-C 70mg/dL       |
+|                                                   |                                   |
+| -   스타틴 경험에 따른 강도 초기 설정             | -   LDL-C 수치 관계없이 강도 유지 |
+|                                                   |                                   |
+|     -   미경험 환자: 중등도 강도                  |                                   |
+|                                                   |                                   |
+|     -   경험환자이며 70mg/dL 미만 환자: 강도 유지 |                                   |
+|                                                   |                                   |
+|     -   경험환자이며 70mg/dL 이상 환자: 강도 상향 |                                   |
+|                                                   |                                   |
+| -   추적기간 중 강도 설정                         |                                   |
+|                                                   |                                   |
+|     -   70mg/dL 이상: 강도 상향                   |                                   |
+|                                                   |                                   |
+|     -   50mg/dL \~ 70mg/dL: 강도 유지             |                                   |
+|                                                   |                                   |
+|     -   50mg/dL 미만: 강도 하향                   |                                   |
++---------------------------------------------------+-----------------------------------+
+
+## Figure
+
+![](LODESTAR_IMG1.png){fig-align="center" width="75%"}
+:::
 
 ## Outcomes
 
--   
+-   primary end point는 3년 이내 주요 심장 및 뇌혈관 이상 사건\
+    (모든 원인에 의한 사망, 심근경색(MI), 뇌졸중, 관상동맥 재관류)
+
+-   secondary end point
+
+    1.  새로 발병한 당뇨병
+
+    2.  심부전
+
+    3.  심부정맥 혈전증 또는 폐혈전색전증
+
+    4.  말초 동맥 질환에 대한 혈관 내 혈관 재개통술
+
+    5.  대동맥 중재술 또는 수술
+
+    6.  말기 신장 질환
+
+    7.  불내성으로 인한 임상시험 약물 중단
+
+    8.  백내장 수술
+
+    9.  복합적인 검사실 이상
 
 ## Statistical analysis
 
+::: panel-tabset
+## Sample size calculation
+
+| 통계 분석 요소                       | 설정 값      |
+|--------------------------------------|--------------|
+| 3년 후 primary end point 발생률      | 12%          |
+| 비열등성 마진(noninferiority margin) | 3.0 % points |
+| 검증시 필요 환자수                   | 3686         |
+| 단측 검정 $\alpha$ error             | 2.5%         |
+| 검정력                               | 80%          |
+| 검사중 환자 이탈율                   | 15%          |
+| **총 검사 시작 환자수**              | **4400**     |
+
+## Statistical analysis
+
+-   시간-사건 분석으로 카플란-마이어 곡선 사용
+
+-   표준 오차 추정을 위해 그린우드 공식을 사용하여 카플란-마이어 실패율에 대한 z통계 추정하는 Com-Nougue 접근법 사용
+
+-   단측 신뢰구간 97.5%의 상한이 3.0% points 미만인 경우 비열등성 선언
+
+-   1차 분석은 모든 참가자를 무작위로 치료군 배정, 배정된 치료를 받지 않은 참가자는 제외하고 수행
+
+## Table 1
+
+![](LODESTAR_IMG2.png){fig-align="center" width="75%"}
+:::
 
 # Results
 
-## Primary endpoint
+## Content
 
+-   참가 환자 74%는 최초 진단 또는 관상동맥 혈관 질환을 진단 받은지 1년 이상 경과
 
+-   4400명의 참가자 중 4341(98.7%)명이 임상 추적 관찰 완료
 
-## Table
+-   Primary end point는 Treat-to-target 177명(8.1%), high-intensity stain 190명(8.7%) 발생\
+    (absolute difference, -0.6%p\[upper boundary of the 1-sided 97.5% CI, 1.1%p\]; P\<.001)
 
+-   per-protocol Primary end point는 Treat-to-target 8.3%, high-intensity stain 8.5% 발생\
+    (absolute difference, -0.2%p\[upper boundary of the 1-sided 97.5% CI, 1.5%p\]; P\<.001)
 
-## Chart
+-   Secondary end point는 두 그룹 간에 통계적으로 유의미한 차이는 없음
 
+-   그러나 post-hoc secondary end point는 high-intensity stain이 treat-to-target대비 유의하게 낮았음\
+    (사후 secondary end point: 신규 발병 당뇨병, 아미노전이효소 또는 크레아틴키나아제 상승, 말기 신장 질환의 복합적 발생)\
+    (6.1% vs 8.2%; absolute difference, -2.1% \[95% CI -3.6% to -0.5%\]' P =.009)
 
+## Statin & Ezetimibe usage chart by time
+
+![](LODESTAR_IMG3.png){fig-align="center" width="75%"}
+
+## Changes in LDL-C levels & Kaplan-Meier Curvers
+
+![](LODESTAR_IMG4.png){fig-align="center" width="75%"}
 
 # Conclusion
 
+# Discussion
+
+## 
+
+## Limitations
