@@ -1,24 +1,67 @@
 ---
-title: "Untitled"
-format: revealjs
+title: "Trea-to-Target or High-Intensity Statin in Patients"
+subtitle: "with Coronary Artery Disease"
+author: "Jaewoong Heo"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: dark
+    footer: LOSESTAR
 editor: visual
 ---
 
-## Quarto
+# Background
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+## Terms
 
-## Bullets
+-   Statin: 스타틴; 이상지질혈증 및 고지혈증에 공범위하게 사용되는 약물
 
-When you click the **Render** button a document will be generated that includes:
+-   Ezetimibe: 에제티미브; 고지혈증 환자의 콜레스테롤 감소를 위한 보조제로 활용
 
--   Content authored with markdown
--   Output from executable code
+-   Aherosclerotic cardiovascular disease (ASCVD): 죽상경화성심혈관질환; 이상지질혈증으로 인해 발생 위험을 증가시킴
 
-## Code
+## Before Research
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+-   
 
-```{r}
-1 + 1
-```
+# Methods
+
+## Study Design
+
+-   
+
+## Participants
+
+-   
+
+## Randomisation
+
+-   
+
+## Procedures
+
+-   
+
+## Outcomes
+
+-   
+
+## Statistical analysis
+
+
+# Results
+
+## Primary endpoint
+
+
+
+## Table
+
+
+## Chart
+
+
+
+# Conclusion
+
