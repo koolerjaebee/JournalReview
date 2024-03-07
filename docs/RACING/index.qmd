@@ -1,5 +1,9 @@
 ---
 title: "Long-term efficacy and safety of statin therapy"
+title-slide-attributes: 
+  data-background-image: "RACING_BackgroundIMG.jpg"
+  data-background-size: contain
+  data-background-opacity: "0.3"
 subtitle: "moderate-intensity statin with ezetimibe versus high-intensity statin"
 author: "Jaewoong Heo"
 format: 
@@ -8,6 +12,7 @@ format:
     transition: slide
     theme: dark
     footer: RACING
+    scrollable: true
 editor: visual
 ---
 
@@ -114,11 +119,11 @@ editor: visual
 
 ## Trial profile
 
-![](RACING_IMG0.png){fig-align="center" width="50%"}
+![](RACING_IMG0.png){fig-align="center" width="75%"}
 
 ## Table
 
-![](RACING_IMG1.png){fig-align="center" width="50%"}
+![](RACING_IMG1.png){fig-align="center" width="75%"}
 :::
 
 # Results
@@ -128,21 +133,21 @@ editor: visual
 ::: panel-tabset
 ## Summary
 
-+------------------+-----------------------+-------------+------------------------------+-----------------------+---------+
-|                  | Statin with ezetimibe | Statin only | Absolute Difference (90% CI) | Hazard ratio (95% CI) | p value |
-+==================+=======================+=============+==============================+=======================+=========+
-| primary endpoint | 9.1%                  | 9.8%        | -0.78% (-2.39 to 0.83)       | 0.92                  | 0.43    |
-|                  |                       |             |                              |                       |         |
-|                  |                       |             |                              | (0.75 to 1.13)        |         |
-+------------------+-----------------------+-------------+------------------------------+-----------------------+---------+
++------------------+-----------------------+-------------+------------------------------+-----------------------+----------+
+|                  | Statin with ezetimibe | Statin only | Absolute Difference (90% CI) | Hazard ratio (95% CI) | p value  |
++==================+=======================+=============+==============================+=======================+==========+
+| primary endpoint | 9.1%                  | 9.8%        | -0.78% (-2.39 to 0.83)       | 0.92                  | 0.43     |
+|                  |                       |             |                              |                       |          |
+|                  |                       |             |                              | (0.75 to 1.13)        |          |
++------------------+-----------------------+-------------+------------------------------+-----------------------+----------+
 
 ## Table
 
-![](RACING_IMG2.png){fig-align="center" width="50%"}
+![](RACING_IMG2.png){fig-align="center" width="75%"}
 
 ## Chart
 
-![](RACING_IMG3.png){fig-align="center" width="50%"}
+![](RACING_IMG3.png){fig-align="center" width="75%"}
 :::
 
 ## Secondary endpoint
@@ -158,7 +163,7 @@ editor: visual
 
 ## Table
 
-![](RACING_IMG4.png){fig-align="center" width="50%"}
+![](RACING_IMG4.png){fig-align="center" width="75%"}
 :::
 
 # Conclusion
@@ -170,5 +175,5 @@ ASCVD 환자들에 스타틴 에제티미브 혼합 복용은 고용량 스타�
 
 ## Subgroup analyses
 
-![](RACING_IMG6.png){fig-align="center" width="50%"}
+![](RACING_IMG6.png){fig-align="center" width="75%"}
 :::
